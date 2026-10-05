@@ -46,15 +46,15 @@ install.packages(c(
   "mmod"
 ))
 
-## Input data
+## Input files
 
-The analysis requires the following input files:
+The analyses require the following input files:
 
-- `second_filters_m4_p80_x0_s3.canonical.unlinked_0.5_100k.vcf`
-- `clonal_groups.xlsx`
-- `dataset_1.xlsx`
+second_filters_m4_p80_x0_s3.canonical.unlinked_0.5_100k.vcf — available from Zenodo: (https://doi.org/10.5281/zenodo.23169870)
 
-The input datasets are not included in this repository.
+clonal_groups.xlsx — available in this GitHub repository.
+
+dataset_1.xlsx — available in this GitHub repository.
 
 ## Reproducibility
 
