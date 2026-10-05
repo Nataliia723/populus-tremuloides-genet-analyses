@@ -25,6 +25,27 @@ The main analysis script is:
 
 `genet_level_population_genetics.R`
 
+## Software and R packages
+
+The analyses were performed using R and require the following packages:
+vcfR
+openxlsx
+dplyr
+adegenet
+hierfstat
+mmod
+
+The packages can be installed in R using:
+
+install.packages(c(
+  "vcfR",
+  "openxlsx",
+  "dplyr",
+  "adegenet",
+  "hierfstat",
+  "mmod"
+))
+
 ## Input data
 
 The analysis requires the following input files:
